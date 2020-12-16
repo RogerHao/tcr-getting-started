@@ -1,2 +1,2 @@
 FROM nginx
-COPY public/index.html /usr/share/nginx/html
+COPY public/ /usr/share/nginx/html
